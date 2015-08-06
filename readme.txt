@@ -8,7 +8,7 @@ Requires at least: 2.6
 
 Tested up to: 4.2.3
 
-Stable tag: trunk
+Stable tag: 1.0
 License: GPLv2 or later
 
 
