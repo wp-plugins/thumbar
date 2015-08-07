@@ -8,7 +8,8 @@ Requires at least: 2.6
 
 Tested up to: 4.2.3
 
-Stable tag: 1.0
+Stable tag: 1.001
+
 License: GPLv2 or later
 
 Thumbar for WordPress - A free, real-time, socially networked thumb voting plugin for WordPress.
@@ -20,7 +21,7 @@ A Thumbar is a voting plugin that is socially networked, so that it can increase
 
 == Installation ==
 
-1. Open thumbar-wp.php in a text editor, change x in uid="x" to your Thumbar.com member id, and save thumbar-wp.php. To get your member id, log into Thumbar.com, click on Tools, and in the code displayed you will see class="thumbar" uid="x", where "x" is your member id.
+1. Open thumbar-wp.php in a text editor, change x in uid="x" to your Thumbar.com member id, and save thumbar-wp.php. To get your member id, create a free account at Thumbar.com, click on Tools, and in the code displayed you will see class="thumbar" uid="x", where "x" is your member id.
 
 2. Find your WordPress plugin directory (./wp/wp-content/plugins) and beneath it create a subdirectory named /thumbar.
 
@@ -37,5 +38,7 @@ A Thumbar is a voting plugin that is socially networked, so that it can increase
 == Changelog ==
 
 = 1.0 =
-
 * New: Initial release
+
+= 1.001 =
+* Readme update
