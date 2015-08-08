@@ -6,13 +6,13 @@ Tags: thumbar, thumbbar, plugin, plugins, rate, rating, ratings, vote, votes, vo
 
 Requires at least: 2.6
 
-Tested up to: 4.2.4
+Tested up to: 4.3
 
-Stable tag: 1.003
+Stable tag: 1.004
 
 License: GPLv2 or later
 
-A real-time, socially networked thumb voting plugin. Requires free Thumbar.com membership.
+A voting plugin that mirrors itself at Thumbar.com to give your blog free traffic.
 
 == Description ==
 
@@ -44,4 +44,7 @@ A Thumbar is voting plugin that adds real-time mirroring of your content and rat
 * Readme update
 
 = 1.003 =
+* Readme update
+
+= 1.004 =
 * Readme update
