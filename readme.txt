@@ -8,11 +8,11 @@ Requires at least: 2.6
 
 Tested up to: 4.3
 
-Stable tag: 1.004
+Stable tag: 1.005
 
 License: GPLv2 or later
 
-A voting plugin that mirrors itself at Thumbar.com to give your blog free traffic.
+The only full-stats social rating plugin that also mirrors itself at Thumbar.com in real time to give your blog more free traffic.
 
 == Description ==
 
@@ -47,4 +47,7 @@ A Thumbar is voting plugin that adds real-time mirroring of your content and rat
 * Readme update
 
 = 1.004 =
+* Readme update
+
+= 1.005 =
 * Readme update
