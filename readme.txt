@@ -16,8 +16,6 @@ The only rating plugin that provides both live feedback and mirrors itself at Th
 * Two-tone bars provide an iconic at-a-glance summary of votes
 * Slim profile integrates easily into your content
 
-[https://www.thumbar.com/images/thumbar.png]
-
 #### Free Real-time Exposure
 * Each Thumbar replicates itself and a snippet of your content securely at Thumbar.com in real time
 * At Thumbar.com, your snippets are searchable, sortable, rateable, synced, and linked back to your blog
