@@ -4,7 +4,7 @@ Donate link: https://thumbar.com
 Tags: thumbar, thumbbar, plugin, plugins, rate, rating, ratings, vote, votes, voting, star, stars, like, dislike, widget, widgets, social, sidebar, comment, comments, post, posts, page, pages, search, google, admin, administrator, review, reviews, snippets, ajax, jquery, buddypress, bbpress, javascript, wordpress
 Requires at least: 2.6
 Tested up to: 4.2.4
-Stable tag: 1.008
+Stable tag: 1.009
 License: GPLv2 or later
 
 The only free rating plugin that provides both live feedback and mirrors itself at Thumbar.com to boost your exposure.
@@ -16,7 +16,7 @@ The only free rating plugin that provides both live feedback and mirrors itself 
 * Two-tone bars provide a quick visual summary of votes
 * Slim profile integrates easily into your content
 
-[https://www.thumbar.com/images/thumbar.png]
+[Thumbar](https://www.thumbar.com/images/thumbar.png)
 
 #### Free Exposure: Forget SEO or Paying for Ads
 * Each Thumbar syncs itself and a snippet of your content at Thumbar.com in real time
@@ -68,4 +68,7 @@ The only free rating plugin that provides both live feedback and mirrors itself 
 * Readme update
 
 = 1.008 =
+* Readme update
+
+= 1.009 =
 * Readme update
